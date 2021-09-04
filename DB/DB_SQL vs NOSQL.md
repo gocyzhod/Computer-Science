@@ -25,6 +25,7 @@ ex ) mySQL = SQL , MongoDB = NOSQL
 따라서, 자주 변경하지 않고 JOIN을 자주 사용하지 않는 데이터일 때 NOSQL 을 사용하면 효율적이다.
 
                   SQL 정리
+                  
     
     SQL 장점
     
@@ -47,6 +48,7 @@ ex ) mySQL = SQL , MongoDB = NOSQL
 변경될 여지가 없고, 명확한 스키마가 사용자와 데이터에 중요한 경우
 
                   NOSQL 정리
+                  
     
     NOSQL 장점
     
