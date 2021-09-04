@@ -1,4 +1,4 @@
-[DB] Key
+        [DB] Key
 
 Key : 검색, 정렬시 Tuple 을 구분할 수 있는 기준이 되는 속성
 
