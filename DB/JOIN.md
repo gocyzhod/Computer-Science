@@ -16,7 +16,8 @@
 
 6. SELF JOIN
 
-    1. INNER JOIN
+
+        1. INNER JOIN
 
 교집합 -> 기준 테이블과 join 되어진 테이블의 중복된 값을 출력
 
