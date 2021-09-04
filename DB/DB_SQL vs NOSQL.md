@@ -26,6 +26,7 @@ ex ) mySQL = SQL , MongoDB = NOSQL
 
                   SQL 정리
                   
+.                  
     
     SQL 장점
     
@@ -49,6 +50,7 @@ ex ) mySQL = SQL , MongoDB = NOSQL
 
                   NOSQL 정리
                   
+.                  
     
     NOSQL 장점
     
